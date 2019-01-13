@@ -1,19 +1,9 @@
 # Endless-Crafting
 
-This module will keep crafting the last crafted item and use Crafter's Cure (Elite is default, replace id in file to change deafult). 
-Also requires command module
 
-If you have a S_FATIGABILITY_POINT error ask your fellow exploiter friend for the opcode
+这个模块将继续制作最后一个制作的物品，
 
-1. Type: /8 craft
-
-2. Craft the item you want to continuously craft once
-
-3. To disable type: /8 craft
-
-Additional commands:
-
-"/8 craft linkedItem" switches pp consumable
-(You can link items in chat with Ctrl+LMB)
-
-"/8 craft unlock" if your character is still stuck 5 seconds after disabling
+台服操作码 ：S_FATIGABILITY_POINT = 29562
+制作你想连续制作一次的物品
+命令: 輸入：制作/craft
+ 输入：制作，然后在pro聊天输入框按Ctrl+鼠标左键选取的生产力恢复药水（注意空格），低于500生产力将自动使用所选药水
