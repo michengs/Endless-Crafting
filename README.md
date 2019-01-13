@@ -4,6 +4,7 @@
 这个模块将继续制作最后一个制作的物品，
 
 台服操作码 ：S_FATIGABILITY_POINT = 29562
+
 将 defs文档 覆盖到
 tera-proxy\node_modules\tera-data\protocol\
 
